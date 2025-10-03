@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently working on out thesis which is SafeSpot— a <br>real-time GPS tracking app designed for seamless location <br>monitoring. <br>🌱 I'm currently learning full-stack web & mobile <br>development. <br>👨‍💻 I'm always interested in exploring more frameworks <br>and improving my skills. <br>🎯 My goal right now is to have proficiency in<br>Web and Mobile development as well as Machine Learning related stuff<br>
+Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently working on out thesis which is SafeSpot— a real-time GPS tracking app designed for seamless location monitoring. <br>🌱 I'm currently learning full-stack web & mobile development. <br>👨‍💻 I'm always interested in exploring more frameworks and improving my skills. <br>🎯 My goal right now is to have proficiency in Web and Mobile development as well as Machine Learning related stuff<br>
 
 
 ## 🌐 Socials:
