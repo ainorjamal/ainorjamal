@@ -4,7 +4,13 @@ Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently wo
 <div align="center">
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ainor.jamal.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamalainor) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zen0711) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zenai69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamal143ainor@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ainor.jamal.9) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamalainor) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zen0711) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zenai69) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamal143ainor@gmail.com) 
+[![Profile](https://img.shields.io/badge/Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ainorjamal.github.io)
+
 
 # 💻 Tech Stack:
 
