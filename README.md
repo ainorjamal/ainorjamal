@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+<div align="center">
+  
+![Coding Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
 Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently working on out thesis which is SafeSpot— a real-time GPS tracking app designed for seamless location monitoring. <br>🌱 I'm currently learning full-stack web & mobile development. <br>👨‍💻 I'm always interested in exploring more frameworks and improving my skills. <br>🎯 My goal right now is to have proficiency in Web and Mobile development as well as Machine Learning related stuff<br>
 
 <div align="center">
@@ -48,6 +55,9 @@ Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently wo
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
