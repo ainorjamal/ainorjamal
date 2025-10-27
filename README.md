@@ -18,6 +18,8 @@ Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently wo
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamal143ainor@gmail.com) 
 [![Profile](https://img.shields.io/badge/Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ainorjamal.github.io)
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 
 # 💻 Tech Stack:
 
