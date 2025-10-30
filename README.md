@@ -6,7 +6,8 @@
 
 </div>
 
-Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently working on out thesis which is SafeSpot— a real-time GPS tracking app designed for seamless location monitoring. <br>🌱 I'm currently learning full-stack web & mobile development. <br>👨‍💻 I'm always interested in exploring more frameworks and improving my skills. <br>🎯 My goal right now is to have proficiency in Web and Mobile development as well as Machine Learning related stuff<br>
+# Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>
+🔭 I'm currently working on out thesis which is SafeSpot— a real-time GPS tracking app designed for seamless location monitoring. <br>🌱 I'm currently learning full-stack web & mobile development. <br>👨‍💻 I'm always interested in exploring more frameworks and improving my skills. <br>🎯 My goal right now is to have proficiency in Web and Mobile development as well as Machine Learning related stuff<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
