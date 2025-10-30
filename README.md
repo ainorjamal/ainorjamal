@@ -57,11 +57,8 @@ Hi 👋, I'm Ainor Jamal—a 4th Year BSIT Student <br><br>🔭 I'm currently wo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
----
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ainorjamal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
