@@ -9,7 +9,7 @@
 # Hi 👋, I'm Ainor Jamal — a BSIT Graduate & Full-Stack Developer <br><br>
 🎓 Graduated with a BS in Information Technology. <br>
 🛰️ Built **SafeSpot** as my thesis, a real-time GPS tracking app for seamless location monitoring. <br>
-💼 Currently [working as ___ at ___ / open to full-stack web & mobile roles]. <br>
+💼 Open to full-stack web & mobile roles]. <br>
 🌱 Leveling up in full-stack web & mobile development and exploring Machine Learning. <br>
 👨‍💻 Always interested in new frameworks and tools. <br>
 ⚡ Fun fact: I self-host my own infrastructure. <br>
